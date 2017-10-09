@@ -1,0 +1,8 @@
+.container {
+    background-image: url(../images/pexels-photo-102720.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    text-align: center;
+    padding-top: 15%;
+}
